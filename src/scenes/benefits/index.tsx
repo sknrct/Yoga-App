@@ -1,5 +1,5 @@
-import ActionButton from "@/shared/ActionButton";
-import HText from "@/shared/HText";
+import ActionButton from "@/shared/ActionButton.tsx";
+import HText from "@/shared/HText.tsx";
 import { BenefitType, SelectedPage } from "@/shared/types";
 import {
   HomeModernIcon,
